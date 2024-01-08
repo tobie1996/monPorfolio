@@ -14,11 +14,11 @@ const Home = () => {
          <div className=' flex flex-col justify-center h-full'>
             
          
-            <h2 className='text-4xl sm:text-7xl font-bold text-white  relative top-5'>
+            <h2 className='text-4xl sm:text-7xl font-bold text-white'>
             I'm a Full Stack Developer
             </h2>
 
-            <p className='text-gray-500 py-4 max-w-md relative top-2'>
+            <p className='text-gray-500 py-4 max-w-md'>
             I'm Mbarga Ekassi Tobie, a passionate and
              experienced full-stack developer, specializing 
              in JavaScript. With my mastery of React, Mongo DB,
